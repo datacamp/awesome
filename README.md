@@ -17,6 +17,7 @@
 - [redux devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) - Chrome DevTools extension for debugging application state changes
 - [pose](https://popmotion.io/pose/) - A truly simple animation library for React, React Native, and Vue
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
+- [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Chrome extension for automagically filling in forms
 
 ## Back End Development
 
