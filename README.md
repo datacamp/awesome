@@ -33,6 +33,7 @@
 ## Miscellaneous
 
 - [GIPHY Capture](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) - The best way to create GIFs on your Mac.
+- [Bear](https://bear.app/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
 
 ## Books
 
