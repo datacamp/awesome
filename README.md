@@ -39,6 +39,7 @@
 - [Practical Object Oriented Design in Ruby](https://www.poodr.com/) - A programmers tale about how to write object-oriented code.
 
 ## Courses
+- [DataCamp](https://www.datacamp.com) - The smartest way to learn data science online
 
 ## Hardware
 - [Vortexgear Pok3r Mechanical Keyboard](https://www.amazon.com/gp/product/B07FKN7Z95/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - Tiny size ultra compact mechanical keyboard
