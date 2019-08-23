@@ -1,5 +1,7 @@
 # awesome
 
+Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to commit directly to master!
+
 ## Contents
 
 - [Front-End Development](#front-end-development)
