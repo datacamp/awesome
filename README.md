@@ -20,6 +20,7 @@ Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to 
 - [pose](https://popmotion.io/pose/) - A truly simple animation library for React, React Native, and Vue
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Chrome extension for automagically filling in forms
+- [aXe](https://www.deque.com/axe/) - Accessibility testing tools. Available as browser extensions for multiple different browsers
 
 ## Back End Development
 
