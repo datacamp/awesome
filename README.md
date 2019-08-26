@@ -34,6 +34,8 @@ Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to 
 - [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - Vim support for Atom (the best of both worlds)
 - [Pigments](https://atom.io/packages/pigments) - Shows the colour of the colour that you've typed
 - [zentabs](https://atom.io/packages/zentabs) - Closes old tabs so only the most recent are open
+- [sync-settings](https://atom.io/packages/sync-settings) Backs up all atom settings (including packages) to a gist
+- [auto-update-packages](https://atom.io/packages/auto-update-packages) What it says on the tin
 
 ## Miscellaneous
 
