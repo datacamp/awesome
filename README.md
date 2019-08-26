@@ -20,6 +20,7 @@ Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to 
 - [pose](https://popmotion.io/pose/) - A truly simple animation library for React, React Native, and Vue
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Chrome extension for automagically filling in forms
+- [aXe](https://www.deque.com/axe/) - Accessibility testing tools. Available as browser extensions for multiple different browsers
 
 ## Back End Development
 
@@ -31,12 +32,17 @@ Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to 
 
 - [focus-pane-or-panel](https://atom.io/packages/focus-pane-or-panel) - Change focus or pane or panel seamlessly.
 - [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - Vim support for Atom (the best of both worlds)
+- [Pigments](https://atom.io/packages/pigments) - Shows the colour of the colour that you've typed
+- [zentabs](https://atom.io/packages/zentabs) - Closes old tabs so only the most recent are open
+- [sync-settings](https://atom.io/packages/sync-settings) - Backs up all atom settings (including packages) to a gist
+- [auto-update-packages](https://atom.io/packages/auto-update-packages) - What it says on the tin
 
 ## Miscellaneous
 
 - [GIPHY Capture](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) - The best way to create GIFs on your Mac.
 - [Bear](https://bear.app/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
 - [dotfiles](https://github.com/nunorafaelrocha/dotfiles) - Your dotfiles are how you personalize your system. These are Nuno's, fork it and boost your productivity :rocket:
+- [Spectacle](https://www.spectacleapp.com/) - Control your windows with easy keyboard shortcuts.
 
 ## Books
 
