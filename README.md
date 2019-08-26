@@ -41,6 +41,7 @@ Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to 
 
 - [GIPHY Capture](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) - The best way to create GIFs on your Mac.
 - [Bear](https://bear.app/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
+- [dotfiles](https://github.com/nunorafaelrocha/dotfiles) - Your dotfiles are how you personalize your system. These are Nuno's, fork it and boost your productivity :rocket:
 - [Spectacle](https://www.spectacleapp.com/) - Control your windows with easy keyboard shortcuts.
 
 ## Books
