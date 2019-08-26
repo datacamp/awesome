@@ -32,6 +32,7 @@ Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to 
 
 - [focus-pane-or-panel](https://atom.io/packages/focus-pane-or-panel) - Change focus or pane or panel seamlessly.
 - [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - Vim support for Atom (the best of both worlds)
+- [Pigments](https://atom.io/packages/pigments) - Shows the colour of the colour that you've typed
 
 ## Miscellaneous
 
