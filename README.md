@@ -27,6 +27,7 @@ Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to 
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
 - [tableplus](https://tableplus.com/) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
+- [dive](https://github.com/wagoodman/dive) - A tool to inspect Docker images, useful when optimizing image size
 
 ## Atom Plugins
 
@@ -43,6 +44,10 @@ Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to 
 - [Bear](https://bear.app/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
 - [dotfiles](https://github.com/nunorafaelrocha/dotfiles) - Your dotfiles are how you personalize your system. These are Nuno's, fork it and boost your productivity :rocket:
 - [Spectacle](https://www.spectacleapp.com/) - Control your windows with easy keyboard shortcuts.
+- [Refined Github](https://github.com/sindresorhus/refined-github) - Adds features that later make it into Github
+- [Github Jira](https://github.com/RobQuistNL/chrome-github-jira) - Easy linking to Jira on Github
+- [Video Speed Controller](https://github.com/igrigorik/videospeed) - Full control over video players
+- [RSwitch](https://mac.r-project.org/#other) - Instantly switch between R versions
 
 ## Books
 
