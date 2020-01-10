@@ -24,6 +24,7 @@ Tools, packages, and misc things that DataCamp thinks are awesome. Feel free to 
 - [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc) - A Chrome Extension troubleshooting tool that helps you validate your pixel implementation.
 - [Tag Assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk) - A Chrome Extension that helps to troubleshoot installation of various Google tags including Google Analytics, Google Tag Manager and more.
 - [META SEO Inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en) - A Chrome Extension to inspect the meta data found inside web pages
+- [Pixelsnap](https://getpixelsnap.com) - Utility app for measuring anything on your screen
 
 ## Back End Development
 
